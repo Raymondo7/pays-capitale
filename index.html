@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>index</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <style>
+            .scroll-bar{
+                height: 100%;
+                width: 250px;
+                border: 2px solid grey;
+                font-family: arial;
+                overflow: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <p>BONJOUR</p>
+            <form method="post" id="myForm">
+                <input type="text" id="nom" placeholder="Entrez votre magnifique nom">
+                <br>
+                <span id="error"></span>
+                <input type="submit" name="button" value="Valider">
+            </form> 
+            <div class="scroll-bar">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos illum perferendis impedit id nemo repellat minima facere! Recusandae quibusdam maxime magnam ipsa unde perferendis facere nam praesentium ipsam nihil autem officia quo repudiandae velit minus sequi, labore itaque fugiat aliquam?
+            </div>
+           <script>
+               const formule = document.getElementById('myForm');
+       
+               formule.addEventListener('submit',function(e){
+                   let texte = document.getElementById('nom');
+       
+                   if (texte.value.trim() == ""){
+                       let myError = document.getElementById('error');
+                       myError.innerHTML = "OK !";
+                       myError.style.color = "red";
+                       texte.style.fontSize = "35px"
+                       e.preventDefault();
+                   }
+               });
+       
+           </script>
+        </div>
+        <!--<script src="script.js"></script>-->
+    </body>
+</html>

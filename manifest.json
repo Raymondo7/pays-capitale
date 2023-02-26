@@ -1,0 +1,35 @@
+{
+    "name": "CountryApp",
+    "short_name": "CountryApp",
+    "start_url":"/traitement.php",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+    {
+        "src": "512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    },
+    {
+        "src": "1080x1080.png",
+        "type": "image/png",
+        "sizes": "1080x1080"
+    },
+    {
+        "src": "720x720.png",
+        "type": "image/png",
+        "sizes": "720x720"
+    },
+    {
+        "src": "480x480.png",
+        "type": "image/png",
+        "sizes": "480x480"
+    },
+    {
+        "src": "1920x1920.png",
+        "type": "image/png",
+        "sizes": "1920x1920"
+    }]
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Recherche de la capitale</title>
+  </head>
+  <body>
+    <form>
+      <label for="pays">Entrez le nom d'un pays:</label>
+      <input type="text" id="pays" name="pays">
+      <button type="submit">Rechercher</button>
+    </form>
+
+    <div>
+      La capitale de <span id="nom-pays"></span> est <span id="capitale"></span>.
+    </div>
+
+<script type="text/javascript">
+	const fetch = require('node-fetch');
+const express = require('express');
+const cors = require('cors');
+
+const app = express();
+app.use(cors());
+
+const apiUrl = 'https://api.chapgpt.com';
+
+app.get('/proxy', async (req, res) => {
+  const url = `${apiUrl}${req.query.path}`;
+  const response = await fetch(url);
+  const data = await response.json();
+  res.send(data);
+});
+
+app.listen(3000, () => {
+  console.log('Server running on port 3000');
+});
+
+	const form = document.querySelector('form');
+const input = document.querySelector('#pays');
+const span = document.querySelector('#capitale');
+
+form.addEventListener('submit', (event) => {
+  event.preventDefault(); // empêcher la soumission par défaut du formulaire
+
+  const pays = input.value;
+
+  // Envoyer une requête à l'API de chapgpt pour obtenir la capitale du pays
+  fetch(`https://api.chapgpt.com/capitale?country=${pays}`)
+    .then(response => response.json())
+    .then(data => {
+      // Extraire la capitale de la réponse
+      const capitale = data.capitale;
+
+      // Afficher la capitale dans le span approprié sur la page
+      span.textContent = capitale;
+    })
+    .catch(error => {
+      console.error('Une erreur s\'est produite:', error);
+    });
+});
+
+</script>
+</body>
+</html>

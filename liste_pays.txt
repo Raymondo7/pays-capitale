@@ -1,0 +1,206 @@
+
+AFRIQUE---------------------------------------------------
+Algérie - Alger
+Angola - Luanda
+Bénin - Porto-Novo
+Botswana - Gaborone
+Burkina Faso - Ouagadougou
+Burundi - Bujumbura
+Cameroun - Yaoundé
+Cap-Vert - Praia
+République centrafricaine - Bangui
+Comores - Moroni
+République démocratique du Congo - Kinshasa
+République du Congo - Brazzaville
+Côte d'Ivoire - Yamoussoukro
+Djibouti - Djibouti
+Égypte - Le Caire
+Érythrée - Asmara
+Éthiopie - Addis-Abeba
+Gabon - Libreville
+Gambie - Banjul
+Ghana - Accra
+Guinée - Conakry
+Guinée-Bissau - Bissau
+Kenya - Nairobi
+Lesotho - Maseru
+Liberia - Monrovia
+Libye - Tripoli
+Madagascar - Antananarivo
+Malawi - Lilongwe
+Mali - Bamako
+Maroc - Rabat
+Maurice - Port Louis
+Mauritanie - Nouakchott
+Mozambique - Maputo
+Namibie - Windhoek
+Niger - Niamey
+Nigéria - Abuja
+Ouganda - Kampala
+Rwanda - Kigali
+São Tomé-et-Principe - São Tomé
+Sénégal - Dakar
+Seychelles - Victoria
+Sierra Leone - Freetown
+Somalie - Mogadishu
+Afrique du Sud - Pretoria
+Soudan - Khartoum
+Soudan du Sud - Juba
+Swaziland - Mbabane
+Tanzanie - Dodoma
+Tchad - N'Djamena
+Togo - Lomé
+Tunisie - Tunis
+Zambie - Lusaka
+Zimbabwe - Harare
+
+EUROPE-------------------------------------------
+Albanie - Tirana
+Allemagne - Berlin
+Andorre - Andorre-la-Vieille
+Autriche - Vienne
+Belgique - Bruxelles
+Biélorussie - Minsk
+Bosnie-Herzégovine - Sarajevo
+Bulgarie - Sofia
+Chypre - Nicosie
+Croatie - Zagreb
+Danemark - Copenhague
+Espagne - Madrid
+Estonie - Tallinn
+Finlande - Helsinki
+France - Paris
+Grèce - Athènes
+Hongrie - Budapest
+Irlande - Dublin
+Islande - Reykjavik
+Italie - Rome
+Kosovo - Pristina
+Lettonie - Riga
+Liechtenstein - Vaduz
+Lituanie - Vilnius
+Luxembourg - Luxembourg
+Macédoine du Nord - Skopje
+Malte - La Valette
+Moldavie - Chisinau
+Monaco - Monaco
+Monténégro - Podgorica
+Norvège - Oslo
+Pays-Bas - Amsterdam
+Pologne - Varsovie
+Portugal - Lisbonne
+Roumanie - Bucarest
+Royaume-Uni - Londres
+Russie - Moscou
+Saint-Marin - Saint-Marin
+Serbie - Belgrade
+Slovaquie - Bratislava
+Slovénie - Ljubljana
+Suède - Stockholm
+Suisse - Berne
+Ukraine - Kiev
+
+
+AMERIQUE---------------------
+Antigua-et-Barbuda - Saint John's
+Argentine - Buenos Aires
+Bahamas - Nassau
+Barbade - Bridgetown
+Belize - Belmopan
+Bolivie - La Paz (administrative) et Sucre (judiciaire)
+Brésil - Brasília
+Canada - Ottawa
+Chili - Santiago
+Colombie - Bogotá
+Costa Rica - San José
+Cuba - La Havane
+République dominicaine - Saint-Domingue
+Dominique - Roseau
+Équateur - Quito
+Salvador - San Salvador
+Grenade - Saint George's
+Guatemala - Guatemala
+Guyana - Georgetown
+Haïti - Port-au-Prince
+Honduras - Tegucigalpa
+Jamaïque - Kingston
+Mexique - Mexico
+Nicaragua - Managua
+Panama - Panama
+Paraguay - Asunción
+Pérou - Lima
+Saint Kitts et Nevis - Basseterre
+Sainte-Lucie - Castries
+Saint-Vincent-et-les Grenadines - Kingstown
+Suriname - Paramaribo
+Trinité-et-Tobago - Port d'Espagne
+États-Unis d'Amérique - Washington, D.C.
+Uruguay - Montevideo
+Venezuela - Caracas
+
+ASIE------------------------------
+Afghanistan - Kaboul
+Arabie Saoudite - Riyad
+Armenie - Erevan
+Azerbaïdjan - Bakou
+Bahreïn - Manama
+Bangladesh - Dacca
+Bhoutan - Thimphou
+Brunei - Bandar Seri Begawan
+Cambodge - Phnom Penh
+Chine - Pékin
+Corée du Nord - Pyongyang
+Corée du Sud - Séoul
+Émirats arabes unis - Abu Dhabi
+Géorgie - Tbilissi
+Inde - New Delhi
+Indonésie - Jakarta
+Irak - Bagdad
+Iran - Téhéran
+Israël - Jérusalem (partiellement reconnue) et Tel Aviv
+Japon - Tokyo
+Jordanie - Amman
+Kazakhstan - Astana
+Kirghizistan - Biskek
+Koweït - Koweït
+Laos - Vientiane
+Liban - Beyrouth
+Malaisie - Kuala Lumpur
+Maldives - Malé
+Mongolie - Oulan-Bator
+Myanmar (Birmanie) - Naypyidaw
+Népal - Katmandou
+Oman - Mascate
+Ouzbékistan - Tachkent
+Pakistan - Islamabad
+Palestine - Ramallah (provisoire)
+Philippines - Manille
+Qatar - Doha
+Russie - Moscou (partiellement en Asie)
+Singapour - Singapour
+Sri Lanka - Sri Jayawardenepura Kotte
+Syrie - Damas
+Taiwan - Taipei
+Tadjikistan - Douchanbé
+Thaïlande - Bangkok
+Timor oriental - Dili
+Turquie - Ankara
+Turkménistan - Ashgabat
+Viêt Nam - Hanoï
+Yémen - Sanaa
+
+
+OCEANIE---------------------------------
+Australie - Canberra
+Fidji - Suva
+Kiribati - Tarawa
+Marshall - Majuro
+Micronésie - Palikir
+Nauru - Yaren District
+Nouvelle-Zélande - Wellington
+Palau - Melekeok
+Papouasie-Nouvelle-Guinée - Port Moresby
+Samoa - Apia
+Tonga - Nuku'alofa
+Tuvalu - Funafuti
+Vanuatu - Port-Vila
